@@ -15,8 +15,7 @@ Contact Information
 Please contact me using the details in contact section if you have and questions 
 or queries!
 
-## License
-MIT License
-
 ## Project status
 Online!
+URL;
+https://github.com/AlastairHafield/Alastair-Hatfield-BIO
